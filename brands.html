@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Brands & Products</title>
+
+  <!-- Boxicons for menu icons -->
+  <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- =========================
+       Header
+  ========================== -->
+  <header class="header">
+    <a href="index.html" class="logo">
+      <img src="Untitled design.svg 3.svg" alt="Logo">
+    </a>
+
+    <input type="checkbox" id="menu-toggle">
+
+    <label for="menu-toggle" class="menu-icons">
+      <i class='bx bx-menu' id="menu-icon"></i>
+      <i class='bx bx-x' id="close-icon"></i>
+    </label>
+
+    <nav class="navbar">
+      <a href="index.html" style="--i:1;">الرئيسية<span></span></a>
+    </nav>
+  </header>
+
+  <main style="margin-top: 3.3rem;"> <!-- Push content below fixed header -->
+
+    <!-- =========================
+         Our Brands
+    ========================== -->
+    <section class="brands">
+      <h2><span class="gradient">علاماتنا التجارية</span></h2>
+      <div class="brands-list">
+        <div class="brand" data-brand="brand1">
+          <img src="logos/HASAWI.webp" alt="Brand 1">
+        </div>
+        <div class="brand" data-brand="brand2">
+          <img src="logos/ELEKTA.webp" alt="Brand 2">
+        </div>
+        <div class="brand" data-brand="brand3">
+          <img src="logos/GREE.webp" alt="Brand 3">
+        </div>
+        <div class="brand" data-brand="brand4">
+          <img src="logos/HOOVER.webp" alt="Brand 4">
+        </div>
+        <div class="brand" data-brand="brand5">
+          <img src="logos/WESTIN.webp" alt="Brand 5">
+        </div>
+        <div class="brand" data-brand="brand6">
+          <img src="logos/ALPACA.webp" alt="Brand 6">
+        </div>
+        <div class="brand" data-brand="brand7">
+          <img src="logos/BEIN.webp" alt="Brand 7">
+        </div>
+        <div class="brand" data-brand="brand8">
+          <img src="logos/DELONGHI.webp" alt="Brand 8">
+        </div>
+      </div>
+    </section>
+
+    <!-- =========================
+         Products Section
+    ========================== -->
+    <section class="products">
+      <!-- Brand 1 -->
+      <div class="brand-products" data-brand="brand1">
+        <h3 class="category-title">مكيفات الهواء</h3>
+        <div class="products-grid">
+          <div class="product-card">
+            <img src="products/ac1.png" alt="AC 1">
+            <h3>AC Model 1</h3>
+            <p>مكيف هواء موفر للطاقة.</p>
+          </div>
+          <div class="product-card">
+            <img src="products/ac2.png" alt="AC 2">
+            <h3>AC Model 2</h3>
+            <p>تصميم مدمج للمساحات الصغيرة.</p>
+          </div>
+        </div>
+
+        <h3 class="category-title">سخانات المياه</h3>
+        <div class="products-grid">
+          <div class="product-card">
+            <img src="products/boiler1.png" alt="Boiler 1">
+            <h3>Boiler 1</h3>
+            <p>سخان مياه سريع التسخين.</p>
+          </div>
+          <div class="product-card">
+            <img src="products/boiler2.png" alt="Boiler 2">
+            <h3>Boiler 2</h3>
+            <p>سخان مياه بسعة كبيرة للاستخدام العائلي.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Brand 2 -->
+      <div class="brand-products" data-brand="brand2">
+        <h3 class="category-title">ماكينات القهوة</h3>
+        <div class="products-grid">
+          <div class="product-card">
+            <img src="products/coffee1.png" alt="Coffee Machine 1">
+            <h3>Espresso Pro</h3>
+            <p>ماكينة قهوة احترافية.</p>
+          </div>
+          <div class="product-card">
+            <img src="products/coffee2.png" alt="Coffee Machine 2">
+            <h3>Compact Coffee</h3>
+            <p>ماكينة قهوة صغيرة ولكن قوية.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Brand 3 -->
+      <div class="brand-products" data-brand="brand3">
+        <h3 class="category-title">الأجهزة المنزلية</h3>
+        <div class="products-grid">
+          <div class="product-card">
+            <img src="products/mixer.png" alt="Mixer">
+            <h3>Stand Mixer</h3>
+            <p>خلاط متين مع سرعات متعددة.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Brand 4 -->
+      <div class="brand-products" data-brand="brand4">
+        <h3 class="category-title">أنظمة التبريد</h3>
+        <div class="products-grid">
+          <div class="product-card">
+            <img src="products/cooler.png" alt="Cooler">
+            <h3>مبرد محمول</h3>
+            <p>مبرد محمول خفيف الوزن.</p>
+          </div>
+          <div class="product-card">
+            <img src="products/cooler.png" alt="Cooler">
+            <h3>مبرد محمول</h3>
+            <p>مبرد محمول خفيف الوزن.</p>
+          </div>
+          <div class="product-card">
+            <img src="products/cooler.png" alt="Cooler">
+            <h3>مبرد محمول</h3>
+            <p>مبرد محمول خفيف الوزن.</p>
+          </div>
+          <div class="product-card">
+            <img src="products/cooler.png" alt="Cooler">
+            <h3>مبرد محمول</h3>
+            <p>مبرد محمول خفيف الوزن.</p>
+          </div>
+          <div class="product-card">
+            <img src="products/cooler.png" alt="Cooler">
+            <h3>مبرد محمول</h3>
+            <p>مبرد محمول خفيف الوزن.</p>
+          </div>
+          <div class="product-card">
+            <img src="products/cooler.png" alt="Cooler">
+            <h3>مبرد محمول</h3>
+            <p>مبرد محمول خفيف الوزن.</p>
+          </div>
+          <div class="product-card">
+            <img src="products/cooler.png" alt="Cooler">
+            <h3>مبرد محمول</h3>
+            <p>مبرد محمول خفيف الوزن.</p>
+          </div>
+          <div class="product-card">
+            <img src="products/cooler.png" alt="Cooler">
+            <h3>مبرد محمول</h3>
+            <p>مبرد محمول خفيف الوزن.</p>
+          </div>
+        </div>
+        <h3 class="category-title">سخانات المياه</h3>
+        <div class="products-grid">
+          <div class="product-card">
+            <img src="products/boiler1.png" alt="Boiler 1">
+            <h3>Boiler 1</h3>
+            <p>سخان مياه سريع التسخين.</p>
+          </div>
+          <div class="product-card">
+            <img src="products/boiler2.png" alt="Boiler 2">
+            <h3>Boiler 2</h3>
+            <p>سخان مياه بسعة كبيرة للاستخدام العائلي.</p>
+          </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- =========================
+       JavaScript
+  ========================== -->
+  <script src="script.js"></script>
+</body>
+</html>
