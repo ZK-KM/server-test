@@ -40,6 +40,10 @@ document.addEventListener("DOMContentLoaded", () => {
           p.classList.remove("show");
           p.style.animation = "none";
         });
+
+        // ✅ Auto-select the first category of the brand
+        const firstCategory = categories?.querySelector("li");
+        if (firstCategory) firstCategory.click();
       }
     });
   });
@@ -79,6 +83,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 
-  // Auto-select first brand
+  // Auto-select first brand (and its first category via above logic)
   if (brands.length > 0) brands[0].click();
 });
