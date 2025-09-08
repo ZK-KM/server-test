@@ -454,4 +454,63 @@ h2 {
   .product-card img {
     max-height: 100px;
   }
+  
+}
+
+.lang-switcher {
+  list-style: none;      /* remove bullets */
+  display: flex;         /* horizontal layout */
+  gap: 0.5rem;           /* spacing between buttons */
+  padding: 0;            /* remove default ul padding */
+  margin: 0;             /* remove default ul margin */
+}
+
+.lang-switcher li {
+  margin: 0;             /* remove li margin */
+}
+
+.lang-btn {
+  display: inline-block; /* for spacing control */
+  margin: 0;             /* remove extra margin */
+}
+
+.lang-btn button {
+  background: var(--gradient-accent);
+  color: var(--color-white);
+  font-weight: 600;
+  font-size: 0.95rem;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 1.2rem;
+  cursor: pointer;
+  box-shadow: 0 2px 6px var(--color-shadow);
+  transition: all 0.3s ease;
+}
+
+/* Hover */
+.lang-btn button:hover {
+  background: var(--gradient-primary);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px var(--color-shadow);
+}
+
+/* Active / Click */
+.lang-btn button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 6px var(--color-shadow);
+}
+/* =========================
+   Mobile Language Button Fix
+========================= */
+@media (max-width: 768px) {
+  /* Smaller buttons on mobile */
+  .lang-switcher {
+    margin-left: 50px; /* adjust spacing from edge */
+    gap: 0.3rem;       /* smaller gap between buttons */
+  }
+
+  .lang-btn button {
+    font-size: 0.9rem; /* smaller font */
+    padding: 0.4rem 1rem; /* smaller padding */
+  }
 }
