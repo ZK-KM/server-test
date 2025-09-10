@@ -4,49 +4,49 @@
       "id": "brand1",
       "name": "حساوي",
       "description": "شركة حساوي هي رائدة في مجال الأجهزة المنزلية، تقدم حلولاً عالية الجودة للتبريد والتدفئة.",
-      "logo": "logos/HASAWI.webp",
+      "logo": "logos/HASAWI.png",
       "categories": [
         {
           "id": "fridges",
           "name": "ثلاجات",
           "products": [
-            { "image": "product-images/refrigerators/REF-1.webp", "title": "Fridge Model 1", "description": "", "id": "5844e320d61d4f05ac706463777af545", "active": true, "name": "Fridge Model 1" },
-            { "image": "product-images/refrigerators/REF-2.webp", "title": "Fridge Model 2", "description": "", "id": "31048f0c404f4c4db39b3536f77b353a", "active": true, "name": "Fridge Model 2" },
-            { "image": "product-images/refrigerators/REF-3.webp", "title": "Fridge Model 3", "description": "", "id": "d8b2c66530284d34b4df3c3f0142f8cb", "active": true, "name": "Fridge Model 3" },
-            { "image": "product-images/refrigerators/REF-4.webp", "title": "Fridge Model 4", "description": "", "id": "73a34db919314b88bcb1bb1d978362ef", "active": true, "name": "Fridge Model 4" },
-            { "image": "product-images/refrigerators/REF-5.webp", "title": "Fridge Model 5", "description": "", "id": "317b4f16f43148f8be5c4f714bc0b064", "active": true, "name": "Fridge Model 5" }
+            { "image": "product-images/refrigerators/REF-1.png", "title": "Fridge Model 1", "description": "", "id": "5844e320d61d4f05ac706463777af545", "active": true, "name": "Fridge Model 1" },
+            { "image": "product-images/refrigerators/REF-2.png", "title": "Fridge Model 2", "description": "", "id": "31048f0c404f4c4db39b3536f77b353a", "active": true, "name": "Fridge Model 2" },
+            { "image": "product-images/refrigerators/REF-3.png", "title": "Fridge Model 3", "description": "", "id": "d8b2c66530284d34b4df3c3f0142f8cb", "active": true, "name": "Fridge Model 3" },
+            { "image": "product-images/refrigerators/REF-4.png", "title": "Fridge Model 4", "description": "", "id": "73a34db919314b88bcb1bb1d978362ef", "active": true, "name": "Fridge Model 4" },
+            { "image": "product-images/refrigerators/REF-5.png", "title": "Fridge Model 5", "description": "", "id": "317b4f16f43148f8be5c4f714bc0b064", "active": true, "name": "Fridge Model 5" }
           ]
         },
         {
           "id": "water-coolers",
           "name": "برادات",
           "products": [
-            { "image": "product-images/water-coolers/WC-1.webp", "title": "Water Cooler Model 1", "description": "", "id": "3dea1f16a65a4f75b01d980946623a5d", "active": true, "name": "Water Cooler Model 1" },
-            { "image": "product-images/water-coolers/WC-2.webp", "title": "Water Cooler Model 2", "description": "", "id": "bd0a14a1c371469b94f0f959def3ef85", "active": true, "name": "Water Cooler Model 2" },
-            { "image": "product-images/water-coolers/WC-3.webp", "title": "Water Cooler Model 3", "description": "", "id": "7580d669472f4098918d6acf377f6ccb", "active": true, "name": "Water Cooler Model 3" },
-            { "image": "product-images/water-coolers/WC-4.webp", "title": "Water Cooler Model 4", "description": "", "id": "b0d258415e8947e198ff7e43aba4167c", "active": true, "name": "Water Cooler Model 4" },
-            { "image": "product-images/water-coolers/WC-5.webp", "title": "Water Cooler Model 5", "description": "", "id": "fbdbaa3334034acf89d2e4451fddd7f6", "active": true, "name": "Water Cooler Model 5" },
-            { "image": "product-images/water-coolers/WC-6.webp", "title": "Water Cooler Model 6", "description": "", "id": "8f524c8b23d8499aa6e414d8f9842dc9", "active": true, "name": "Water Cooler Model 6" },
-            { "image": "product-images/water-coolers/WC-7.webp", "title": "Water Cooler Model 7", "description": "", "id": "36816ee485a648319fe84521ca577acf", "active": true, "name": "Water Cooler Model 7" }
+            { "image": "product-images/water-coolers/WC-1.png", "title": "Water Cooler Model 1", "description": "", "id": "3dea1f16a65a4f75b01d980946623a5d", "active": true, "name": "Water Cooler Model 1" },
+            { "image": "product-images/water-coolers/WC-2.png", "title": "Water Cooler Model 2", "description": "", "id": "bd0a14a1c371469b94f0f959def3ef85", "active": true, "name": "Water Cooler Model 2" },
+            { "image": "product-images/water-coolers/WC-3.png", "title": "Water Cooler Model 3", "description": "", "id": "7580d669472f4098918d6acf377f6ccb", "active": true, "name": "Water Cooler Model 3" },
+            { "image": "product-images/water-coolers/WC-4.png", "title": "Water Cooler Model 4", "description": "", "id": "b0d258415e8947e198ff7e43aba4167c", "active": true, "name": "Water Cooler Model 4" },
+            { "image": "product-images/water-coolers/WC-5.png", "title": "Water Cooler Model 5", "description": "", "id": "fbdbaa3334034acf89d2e4451fddd7f6", "active": true, "name": "Water Cooler Model 5" },
+            { "image": "product-images/water-coolers/WC-6.png", "title": "Water Cooler Model 6", "description": "", "id": "8f524c8b23d8499aa6e414d8f9842dc9", "active": true, "name": "Water Cooler Model 6" },
+            { "image": "product-images/water-coolers/WC-7.png", "title": "Water Cooler Model 7", "description": "", "id": "36816ee485a648319fe84521ca577acf", "active": true, "name": "Water Cooler Model 7" }
           ]
         },
         {
           "id": "split-units",
           "name": "سبالت",
           "products": [
-            { "image": "product-images/Air-Conditioners/ace-1.webp", "title": "Boiler 1", "description": "", "id": "22035affa0ca426186f4c8a080a45f7e", "active": true, "name": "Boiler 1" },
-            { "image": "product-images/Air-Conditioners/ace-2.webp", "title": "Boiler 2", "description": "", "id": "f5b9725affd84d8db2eccaeee8fc2fce", "active": true, "name": "Boiler 2" },
-            { "image": "product-images/Air-Conditioners/ace-3.webp", "title": "Boiler 3", "description": "", "id": "2672a9049f4a49f0804f6f101ee1f0a7", "active": true, "name": "Boiler 3" },
-            { "image": "product-images/Air-Conditioners/ace-4.webp", "title": "Boiler 4", "description": "", "id": "0c0cb954c6184540a4628a223d44da0a", "active": true, "name": "Boiler 4" },
-            { "image": "product-images/Air-Conditioners/floor-stand-01.webp", "title": "Boiler 5", "description": "", "id": "985e9d8807a044c7aa4c640f6de1e3e1", "active": true, "name": "Boiler 5" },
-            { "image": "product-images/Air-Conditioners/outdoor-01.webp", "title": "Boiler 6", "description": "", "id": "20b48c2012ea4916b13de6f8285d1549", "active": true, "name": "Boiler 6" }
+            { "image": "product-images/Air-Conditioners/ace-1.png", "title": "Boiler 1", "description": "", "id": "22035affa0ca426186f4c8a080a45f7e", "active": true, "name": "Boiler 1" },
+            { "image": "product-images/Air-Conditioners/ace-2.png", "title": "Boiler 2", "description": "", "id": "f5b9725affd84d8db2eccaeee8fc2fce", "active": true, "name": "Boiler 2" },
+            { "image": "product-images/Air-Conditioners/ace-3.png", "title": "Boiler 3", "description": "", "id": "2672a9049f4a49f0804f6f101ee1f0a7", "active": true, "name": "Boiler 3" },
+            { "image": "product-images/Air-Conditioners/ace-4.png", "title": "Boiler 4", "description": "", "id": "0c0cb954c6184540a4628a223d44da0a", "active": true, "name": "Boiler 4" },
+            { "image": "product-images/Air-Conditioners/floor-stand-01.png", "title": "Boiler 5", "description": "", "id": "985e9d8807a044c7aa4c640f6de1e3e1", "active": true, "name": "Boiler 5" },
+            { "image": "product-images/Air-Conditioners/outdoor-01.png", "title": "Boiler 6", "description": "", "id": "20b48c2012ea4916b13de6f8285d1549", "active": true, "name": "Boiler 6" }
           ]
         },
         {
           "id": "boilers",
           "name": "سخانات",
           "products": [
-            { "image": "product-images/water-heater/water-heater-seperate.webp", "title": "Boiler 1", "description": "", "id": "36bee5c69dde4115b47413b56e175b3c", "active": true, "name": "Boiler 1" }
+            { "image": "product-images/water-heater/water-heater-seperate.png", "title": "Boiler 1", "description": "", "id": "36bee5c69dde4115b47413b56e175b3c", "active": true, "name": "Boiler 1" }
           ]
         }
       ]
@@ -55,14 +55,14 @@
       "id": "brand2",
       "name": "الكاتا",
       "description": "شركة حساوي هي رائدة في مجال الأجهزة المنزلية، تقدم حلولاً عالية الجودة للتبريد والتدفئة.",
-      "logo": "logos/TVS.webp",
+      "logo": "logos/TVS.png",
       "categories": [
         {
           "id": "coffee",
           "name": "ماكينات القهوة",
           "products": [
-            { "image": "logos/DELONGHI.webp", "title": "Espresso Pro", "description": "ماكينة قهوة احترافية.", "id": "ddacb75d9d3a493d8aea7341971bb695", "active": true, "name": "Espresso Pro" },
-            { "image": "logos/DELONGHI.webp", "title": "Compact Coffee", "description": "ماكينة قهوة صغيرة ولكن قوية.", "id": "b490257679a74d9e8ebd7592c2e3ee76", "active": true, "name": "Compact Coffee" }
+            { "image": "logos/DELONGHI.png", "title": "Espresso Pro", "description": "ماكينة قهوة احترافية.", "id": "ddacb75d9d3a493d8aea7341971bb695", "active": true, "name": "Espresso Pro" },
+            { "image": "logos/DELONGHI.png", "title": "Compact Coffee", "description": "ماكينة قهوة صغيرة ولكن قوية.", "id": "b490257679a74d9e8ebd7592c2e3ee76", "active": true, "name": "Compact Coffee" }
           ]
         }
       ]
@@ -71,13 +71,13 @@
       "id": "brand3",
       "name": "GAROW",
       "description": "شركة حساوي هي رائدة في مجال الأجهزة المنزلية، تقدم حلولاً عالية الجودة للتبريد والتدفئة.",
-      "logo": "logos/GAROW.webp",
+      "logo": "logos/GAROW.png",
       "categories": [
         {
           "id": "appliances",
           "name": "الأجهزة المنزلية",
           "products": [
-            { "image": "logos/DELONGHI.webp", "title": "Stand Mixer", "description": "خلاط متين مع سرعات متعددة.", "id": "c5955282521341e0b1f6de0907a65741", "active": true, "name": "Stand Mixer" }
+            { "image": "logos/DELONGHI.png", "title": "Stand Mixer", "description": "خلاط متين مع سرعات متعددة.", "id": "c5955282521341e0b1f6de0907a65741", "active": true, "name": "Stand Mixer" }
           ]
         }
       ]
@@ -86,23 +86,23 @@
       "id": "brand4",
       "name": "OPAL",
       "description": "شركة حساوي هي رائدة في مجال الأجهزة المنزلية، تقدم حلولاً عالية الجودة للتبريد والتدفئة.",
-      "logo": "logos/OPAl.webp",
+      "logo": "logos/OPAl.png",
       "categories": [
         {
           "id": "coolers",
           "name": "أنظمة التبريد",
           "products": [
-            { "image": "logos/GREE.webp", "title": "مبرد محمول", "description": "مبرد محمول خفيف الوزن.", "id": "24a5824523ed4ab68b9a2e2d2d3a3433", "active": true, "name": "مبرد محمول" },
-            { "image": "logos/GREE.webp", "title": "مبرد محمول", "description": "مبرد محمول خفيف الوزن.", "id": "ccb6a86437984075a37629d2cd1add80", "active": true, "name": "مبرد محمول" },
-            { "image": "logos/GREE.webp", "title": "مبرد محمول", "description": "مبرد محمول خفيف الوزن.", "id": "e2cc8274b79c46e5bfd6e1e6c02cc108", "active": true, "name": "مبرد محمول" }
+            { "image": "logos/GREE.png", "title": "مبرد محمول", "description": "مبرد محمول خفيف الوزن.", "id": "24a5824523ed4ab68b9a2e2d2d3a3433", "active": true, "name": "مبرد محمول" },
+            { "image": "logos/GREE.png", "title": "مبرد محمول", "description": "مبرد محمول خفيف الوزن.", "id": "ccb6a86437984075a37629d2cd1add80", "active": true, "name": "مبرد محمول" },
+            { "image": "logos/GREE.png", "title": "مبرد محمول", "description": "مبرد محمول خفيف الوزن.", "id": "e2cc8274b79c46e5bfd6e1e6c02cc108", "active": true, "name": "مبرد محمول" }
           ]
         },
         {
           "id": "boilers",
           "name": "سخانات المياه",
           "products": [
-            { "image": "logos/HASAWI.webp", "title": "Boiler 1", "description": "سخان مياه سريع التسخين.", "id": "5b8a09ab17ee461c96b14a5f1fe09739", "active": true, "name": "Boiler 1" },
-            { "image": "logos/HASAWI.webp", "title": "Boiler 2", "description": "سخان مياه بسعة كبيرة للاستخدام العائلي.", "id": "b5abab09b74347f2ac0bde6612f43e54", "active": true, "name": "Boiler 2" }
+            { "image": "logos/HASAWI.png", "title": "Boiler 1", "description": "سخان مياه سريع التسخين.", "id": "5b8a09ab17ee461c96b14a5f1fe09739", "active": true, "name": "Boiler 1" },
+            { "image": "logos/HASAWI.png", "title": "Boiler 2", "description": "سخان مياه بسعة كبيرة للاستخدام العائلي.", "id": "b5abab09b74347f2ac0bde6612f43e54", "active": true, "name": "Boiler 2" }
           ]
         }
       ]
@@ -111,37 +111,37 @@
       "id": "brand5",
       "name": "SUBS",
       "description": "نحن الوكيل الحصري لعدد من أبرز المنصات، ونوفر تجربة ترفيه متكاملة.",
-      "logo": "logos/SUBS.webp",
+      "logo": "logos/SUBS.png",
       "categories": [
         {
           "id": "beIN",
           "name": "beIN",
           "products": [
-            { "image": "logos/BEIN.webp", "title": "beIN Sports Package", "description": "اشتراك رياضي شامل لجميع البطولات.", "id": "ebcd6cced2934d82acc70d959c0ae4fb", "active": true, "name": "beIN Sports Package" },
-            { "image": "logos/BEIN.webp", "title": "beIN Entertainment Package", "description": "اشتراك ترفيهي مع أحدث الأفلام والمسلسلات.", "id": "aaeecf6c3b4f4263b4ce7683e3e992a6", "active": true, "name": "beIN Entertainment Package" }
+            { "image": "logos/BEIN.png", "title": "beIN Sports Package", "description": "اشتراك رياضي شامل لجميع البطولات.", "id": "ebcd6cced2934d82acc70d959c0ae4fb", "active": true, "name": "beIN Sports Package" },
+            { "image": "logos/BEIN.png", "title": "beIN Entertainment Package", "description": "اشتراك ترفيهي مع أحدث الأفلام والمسلسلات.", "id": "aaeecf6c3b4f4263b4ce7683e3e992a6", "active": true, "name": "beIN Entertainment Package" }
           ]
         },
         {
           "id": "OSN",
           "name": "OSN",
           "products": [
-            { "image": "logos/OSN.webp", "title": "OSN Sports Package", "description": "اشتراك رياضي شامل لجميع البطولات.", "id": "ebd84f0a8c794054ada56f43473d19a3", "active": true, "name": "OSN Sports Package" },
-            { "image": "logos/OSN.webp", "title": "OSN Entertainment Package", "description": "اشتراك ترفيهي مع أحدث الأفلام والمسلسلات.", "id": "85cd97a1df4f49179fc0d6ca97f9e2d5", "active": true, "name": "OSN Entertainment Package" }
+            { "image": "logos/OSN.png", "title": "OSN Sports Package", "description": "اشتراك رياضي شامل لجميع البطولات.", "id": "ebd84f0a8c794054ada56f43473d19a3", "active": true, "name": "OSN Sports Package" },
+            { "image": "logos/OSN.png", "title": "OSN Entertainment Package", "description": "اشتراك ترفيهي مع أحدث الأفلام والمسلسلات.", "id": "85cd97a1df4f49179fc0d6ca97f9e2d5", "active": true, "name": "OSN Entertainment Package" }
           ]
         },
         {
           "id": "SHAHIDVIP",
           "name": "شاهد",
           "products": [
-            { "image": "logos/SHAHIDVIPSQ.webp", "title": "VIP", "description": "", "id": "e36e43c2352d4a2388ab6c3ec2651503", "active": true, "name": "VIP" },
-            { "image": "logos/SHAHIDVIPSQ.webp", "title": "VIP | BigTime", "description": "", "id": "2ea927204adb4bd2b4e8de5223df57c5", "active": true, "name": "VIP | BigTime" }
+            { "image": "logos/SHAHIDVIPSQ.png", "title": "VIP", "description": "", "id": "e36e43c2352d4a2388ab6c3ec2651503", "active": true, "name": "VIP" },
+            { "image": "logos/SHAHIDVIPSQ.png", "title": "VIP | BigTime", "description": "", "id": "2ea927204adb4bd2b4e8de5223df57c5", "active": true, "name": "VIP | BigTime" }
           ]
         },
         {
           "id": "STARZPLAY",
           "name": "STARZPLAY",
           "products": [
-            { "image": "logos/STARZPLAY.webp", "title": "STARZPLAY Sports Package", "description": "اشتراك رياضي شامل لجميع البطولات.", "id": "0ac19fd5279e46e7818edb664cc085ed", "active": false, "name": "STARZPLAY Sports Package" }
+            { "image": "logos/STARZPLAY.png", "title": "STARZPLAY Sports Package", "description": "اشتراك رياضي شامل لجميع البطولات.", "id": "0ac19fd5279e46e7818edb664cc085ed", "active": false, "name": "STARZPLAY Sports Package" }
           ]
         }
       ]
@@ -150,42 +150,42 @@
       "id": "brand6",
       "name": "GREE",
       "description": "شركة حساوي هي رائدة في مجال الأجهزة المنزلية، تقدم حلولاً عالية الجودة للتبريد والتدفئة.",
-      "logo": "logos/GREE.webp",
+      "logo": "logos/GREE.png",
       "categories": []
     },
     {
       "id": "brand7",
       "name": "WESTIN",
       "description": "شركة حساوي هي رائدة في مجال الأجهزة المنزلية، تقدم حلولاً عالية الجودة للتبريد والتدفئة.",
-      "logo": "logos/WESTIN.webp",
+      "logo": "logos/WESTIN.png",
       "categories": []
     },
     {
       "id": "brand8",
       "name": "DELONGHI",
       "description": "شركة حساوي هي رائدة في مجال الأجهزة المنزلية، تقدم حلولاً عالية الجودة للتبريد والتدفئة.",
-      "logo": "logos/DELONGHI.webp",
+      "logo": "logos/DELONGHI.png",
       "categories": []
     },
     {
       "id": "brand9",
       "name": "ELEKTA",
       "description": "شركة حساوي هي رائدة في مجال الأجهزة المنزلية، تقدم حلولاً عالية الجودة للتبريد والتدفئة.",
-      "logo": "logos/ELEKTA.webp",
+      "logo": "logos/ELEKTA.png",
       "categories": []
     },
     {
       "id": "brand10",
       "name": "HOOVER",
       "description": "شركة حساوي هي رائدة في مجال الأجهزة المنزلية، تقدم حلولاً عالية الجودة للتبريد والتدفئة.",
-      "logo": "logos/HOOVER.webp",
+      "logo": "logos/HOOVER.png",
       "categories": []
     },
     {
       "id": "brand11",
       "name": "ALPACA",
       "description": "شركة حساوي هي رائدة في مجال الأجهزة المنزلية، تقدم حلولاً عالية الجودة للتبريد والتدفئة.",
-      "logo": "logos/ALPACA.webp",
+      "logo": "logos/ALPACA.png",
       "categories": []
     }
   ]
