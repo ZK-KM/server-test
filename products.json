@@ -117,31 +117,31 @@
           "id": "beIN",
           "name": "beIN",
           "products": [
-            { "image": "logos/BEIN.png", "title": "beIN Sports Package", "description": "اشتراك رياضي شامل لجميع البطولات.", "id": "ebcd6cced2934d82acc70d959c0ae4fb", "active": true, "name": "beIN Sports Package" },
-            { "image": "logos/BEIN.png", "title": "beIN Entertainment Package", "description": "اشتراك ترفيهي مع أحدث الأفلام والمسلسلات.", "id": "aaeecf6c3b4f4263b4ce7683e3e992a6", "active": true, "name": "beIN Entertainment Package" }
+            { "image": "logos/BEIN.webp", "title": "beIN Sports Package", "description": "اشتراك رياضي شامل لجميع البطولات.", "id": "ebcd6cced2934d82acc70d959c0ae4fb", "active": true, "name": "beIN Sports Package" },
+            { "image": "logos/BEIN.webp", "title": "beIN Entertainment Package", "description": "اشتراك ترفيهي مع أحدث الأفلام والمسلسلات.", "id": "aaeecf6c3b4f4263b4ce7683e3e992a6", "active": true, "name": "beIN Entertainment Package" }
           ]
         },
         {
           "id": "OSN",
           "name": "OSN",
           "products": [
-            { "image": "logos/OSN.png", "title": "OSN Sports Package", "description": "اشتراك رياضي شامل لجميع البطولات.", "id": "ebd84f0a8c794054ada56f43473d19a3", "active": true, "name": "OSN Sports Package" },
-            { "image": "logos/OSN.png", "title": "OSN Entertainment Package", "description": "اشتراك ترفيهي مع أحدث الأفلام والمسلسلات.", "id": "85cd97a1df4f49179fc0d6ca97f9e2d5", "active": true, "name": "OSN Entertainment Package" }
+            { "image": "logos/OSN.webp", "title": "OSN Sports Package", "description": "اشتراك رياضي شامل لجميع البطولات.", "id": "ebd84f0a8c794054ada56f43473d19a3", "active": true, "name": "OSN Sports Package" },
+            { "image": "logos/OSN.webp", "title": "OSN Entertainment Package", "description": "اشتراك ترفيهي مع أحدث الأفلام والمسلسلات.", "id": "85cd97a1df4f49179fc0d6ca97f9e2d5", "active": true, "name": "OSN Entertainment Package" }
           ]
         },
         {
           "id": "SHAHIDVIP",
           "name": "شاهد",
           "products": [
-            { "image": "logos/SHAHIDVIPSQ.png", "title": "VIP", "description": "", "id": "e36e43c2352d4a2388ab6c3ec2651503", "active": true, "name": "VIP" },
-            { "image": "logos/SHAHIDVIPSQ.png", "title": "VIP | BigTime", "description": "", "id": "2ea927204adb4bd2b4e8de5223df57c5", "active": true, "name": "VIP | BigTime" }
+            { "image": "logos/SHAHIDVIPSQ.webp", "title": "VIP", "description": "", "id": "e36e43c2352d4a2388ab6c3ec2651503", "active": true, "name": "VIP" },
+            { "image": "logos/SHAHIDVIPSQ.webp", "title": "VIP | BigTime", "description": "", "id": "2ea927204adb4bd2b4e8de5223df57c5", "active": true, "name": "VIP | BigTime" }
           ]
         },
         {
           "id": "STARZPLAY",
           "name": "STARZPLAY",
           "products": [
-            { "image": "logos/STARZPLAY.png", "title": "STARZPLAY Sports Package", "description": "اشتراك رياضي شامل لجميع البطولات.", "id": "0ac19fd5279e46e7818edb664cc085ed", "active": false, "name": "STARZPLAY Sports Package" }
+            { "image": "logos/STARZPLAY.webp", "title": "STARZPLAY Sports Package", "description": "اشتراك رياضي شامل لجميع البطولات.", "id": "0ac19fd5279e46e7818edb664cc085ed", "active": false, "name": "STARZPLAY Sports Package" }
           ]
         }
       ]
